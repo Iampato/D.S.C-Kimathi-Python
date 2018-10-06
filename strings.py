@@ -15,7 +15,7 @@ print (mystring[3])
 mywife = "Jeniffer"
 print (mywife[0:3])
 print (mywife[:2])
-"""
+
 
 #Basic methods
 myName  = "patrick"
@@ -25,3 +25,4 @@ print (y)
 sentence = "hello world"
 a = sentence.split()
 print (a)
+"""
