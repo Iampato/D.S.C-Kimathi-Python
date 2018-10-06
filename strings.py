@@ -14,6 +14,6 @@ print (mystring[3])
 #slicing 
 mywife = "Jeniffer"
 print (mywife[0:3])
-
+print (mywife[:2])
 """
 
